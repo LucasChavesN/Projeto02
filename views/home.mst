@@ -1,0 +1,14 @@
+{{>header}}
+<center>
+<br>
+
+<h3 style="color:blue">Projeto002 - JavaScript</h3>
+
+<br>
+
+<p>Este projeto tem como fundamento auxiliar parcialmente na nota de atividades na matéria de Desenvolvimento Web II, com a contribuição contínua do Professor Vinícius Heltai ao decorrer das aulas de Reposição.</p>
+<hr>
+<center>
+
+<p> Para acessar o historico, vá até a URL e digite localhost:3000/rota2</p>
+<p> Para acessar a grade do 3 Semestre, vá até a URL e digite localhost:3000/rota1</p>
